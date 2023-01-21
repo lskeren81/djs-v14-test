@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lskeren81/djs-v14-test/issues"
   },
-  "homepage": "https://github.com/lskeren81/djs-v14-test#readme"
+  "homepage": "https://github.com/lskeren81/djs-v14-test#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
 }
