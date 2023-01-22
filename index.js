@@ -1,4 +1,4 @@
-const register = require("./")
+const register = require("./registering commands.js")
 module.exports = register;
 const fs = require('node:fs');
 const path = require('node:path');
